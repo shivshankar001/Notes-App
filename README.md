@@ -8,7 +8,7 @@
 
 <p align="center">A web-based notes app for developers</p>
 
-![Screenshot](https://github.com/shinchancode/Notes-App/blob/main/Images/1.png)
+![Screenshot](https://github.com/shivshankar001/Notes-App/blob/main/Images/4.png)
 
 ## Features
 
@@ -26,15 +26,15 @@ NoteApp is a note-taking app for the web. It is a static site without a database
 ##
 # Image 1
 ##
-![Screenshot](https://github.com/shinchancode/Notes-App/blob/main/Images/2.png)
+![Screenshot](https://github.com/shivshankar001/Notes-App/blob/main/Images/1.png)
 ##
 # Image 2
 ##
-![Screenshot](https://github.com/shinchancode/Notes-App/blob/main/Images/3.png)
+![Screenshot](https://github.com/shivshankar001/Notes-App/blob/main/Images/2.png)
 ##
 # Image 3
 ##
-![Screenshot](https://github.com/shinchancode/Notes-App/blob/main/Images/4.png)
+![Screenshot](https://github.com/shivshankar001/Notes-App/blob/main/Images/3.png)
 ##
 ##
 ### Connect with me:
